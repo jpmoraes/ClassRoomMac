@@ -1,0 +1,215 @@
+Unity Editor version:    2020.3.46f1 (18bc01a066b4)
+Branch:                  2020.3/staging
+Build type:              Release
+Batch mode:              YES
+macOS version:           Version 13.4.1 (c) (Build 22F770820d)
+Darwin version:          22.5.0
+Architecture:            x86_64
+Running under Rosetta:   NO
+Available memory:        16384 MB
+Using pre-set license
+Pro License: NO
+
+COMMAND LINE ARGUMENTS:
+/Applications/Unity/Hub/Editor/2020.3.46f1/Unity.app/Contents/MacOS/Unity
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+/Users/instrutor/Desktop/JP/ClassRoomMac
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+49822
+Successfully changed project path to: /Users/instrutor/Desktop/JP/ClassRoomMac
+/Users/instrutor/Desktop/JP/ClassRoomMac
+Using Asset Import Pipeline V2.
+Player connection [140704376772160] Host "[IP] 192.168.11.53 [Port] 0 [Flags] 2 [Guid] 4139754805 [EditorId] 4139754805 [Version] 1048832 [Id] OSXEditor(0,cepcacmac11) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+
+Player connection [140704376772160] Host "[IP] 192.168.11.53 [Port] 0 [Flags] 2 [Guid] 4139754805 [EditorId] 4139754805 [Version] 1048832 [Id] OSXEditor(0,cepcacmac11) [Debug] 1 [PackageName] OSXEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+
+Refreshing native plugins compatible for Editor in 20.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.46f1 (18bc01a066b4)
+[Subsystems] Discovering subsystems at path /Applications/Unity/Hub/Editor/2020.3.46f1/Unity.app/Contents/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path /Users/instrutor/Desktop/JP/ClassRoomMac/Assets
+GfxDevice: creating device client; threaded=0
+2023-09-22 15:48:57.716 Unity[8904:82897] iMac preferred device: AMD Radeon Pro 5500 XT (high power)
+2023-09-22 15:48:57.716 Unity[8904:82897] Metal devices available: 1
+2023-09-22 15:48:57.716 Unity[8904:82897] 0: AMD Radeon Pro 5500 XT (high power)
+2023-09-22 15:48:57.717 Unity[8904:82897] Using device AMD Radeon Pro 5500 XT (high power)
+Initializing Metal device caps: AMD Radeon Pro 5500 XT
+Initialize mono
+Mono path[0] = '/Applications/Unity/Hub/Editor/2020.3.46f1/Unity.app/Contents/Managed'
+Mono path[1] = '/Applications/Unity/Hub/Editor/2020.3.46f1/Unity.app/Contents/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = '/Applications/Unity/Hub/Editor/2020.3.46f1/Unity.app/Contents/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56904
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: /Applications/Unity/Hub/Editor/2020.3.46f1/Unity.app/Contents/PlaybackEngines/MacStandaloneSupport/UnityEditor.OSXStandalone.Extensions.dll
+Registered in 0.000511 seconds.
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 20.19 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.490 seconds
+Domain Reload Profiling:
+	ReloadAssembly (490ms)
+		BeginReloadAssembly (44ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (386ms)
+			LoadAssemblies (44ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (146ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (30ms)
+			SetupLoadedEditorAssemblies (140ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (20ms)
+				BeforeProcessingInitializeOnLoad (16ms)
+				ProcessInitializeOnLoadAttributes (76ms)
+				ProcessInitializeOnLoadMethodAttributes (23ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.001585 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for OSXStandalone target not found
+Refreshing native plugins compatible for Editor in 0.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.842 seconds
+Domain Reload Profiling:
+	ReloadAssembly (843ms)
+		BeginReloadAssembly (124ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (22ms)
+		EndReloadAssembly (669ms)
+			LoadAssemblies (68ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (253ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (41ms)
+			SetupLoadedEditorAssemblies (235ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (3ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (0ms)
+				BeforeProcessingInitializeOnLoad (57ms)
+				ProcessInitializeOnLoadAttributes (165ms)
+				ProcessInitializeOnLoadMethodAttributes (8ms)
+				AfterProcessingInitializeOnLoad (1ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (2ms)
+Platform modules already initialized, skipping
+Validating Project structure ... 0.000919 seconds.
+Shader import version has changed; will reimport all shaders...
+Upgrading shader files ...0.001225 seconds.
+Application.AssetDatabase Initial Script Refresh Start
+RefreshInfo: InitialScriptRefreshV2(NoUpdateAssetOptions) scanfilter:  ... 1 filters
+RefreshProfiler: Total: 0.000ms
+Application.AssetDatabase Initial Script Refresh End
+Application.AssetDatabase.Refresh Start
+Application.AssetDatabase.Refresh End
+RefreshInfo: StopAssetImportingV2(ForceSynchronousImport) scanfilter: 
+RefreshProfiler: Total: 0.000ms
+Launching external process: /Applications/Unity/Hub/Editor/2020.3.46f1/Unity.app/Contents/Tools/UnityShaderCompiler
+Launched and connected shader compiler UnityShaderCompiler after 0.01 seconds
+Initializing Unity extensions:
+2023-09-22 15:48:59.547 Unity[8904:82897] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f831122bb20 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+2023-09-22 15:48:59.549 Unity[8904:82897] NSEventModifierFlagFunction specified to -setKeyEquivalentModifierMask: for item <NSMenuItem: 0x7f831119be30 Font Asset, ke='Command-F12'>, but is only supported for system-provided menu items; will not be used
+========================================================================
+Worker process is ready to serve import requests
+Refreshing native plugins compatible for Editor in 0.16 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1321 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 79.3 MB.
+System memory in use after: 78.6 MB.
+
+Unloading 77 unused Assets to reduce memory usage. Loaded Objects now: 1798.
+Total: 2.301868 ms (FindLiveObjects: 0.093415 ms CreateObjectMapping: 0.034228 ms MarkObjects: 1.774883 ms  DeleteObjects: 0.398883 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:framework-osx-AVFoundation: e770b220cccbd017edd2c1fefb359320 -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/Desing/sala sávio_sem3.fbx
+  artifactKey: Guid(5858b248f2ae04757afef718b5fba77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/sala sávio_sem3.fbx using Guid(5858b248f2ae04757afef718b5fba77e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd7aa68cf16e73322e64065807643086d') in 3.247350 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 98.695565 seconds.
+  path: Assets/Desing/sala TEXTURA2.fbx
+  artifactKey: Guid(9829ed4e7c18043e1968a7b76d906d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/sala TEXTURA2.fbx using Guid(9829ed4e7c18043e1968a7b76d906d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '08687b68ce18334a79ba1d958cbec8b5') in 3.015898 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 184.000521 seconds.
+  path: Assets/Desing/sala TEXTURA2.fbx
+  artifactKey: Guid(9829ed4e7c18043e1968a7b76d906d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/sala TEXTURA2.fbx using Guid(9829ed4e7c18043e1968a7b76d906d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e64e3076dd8436b3986c6ee640d269') in 3.021863 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 58.622334 seconds.
+  path: Assets/Desing/padrao-de-textura-granito-branco.jpg
+  artifactKey: Guid(dd98e606b492741a687b5091c637902d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/padrao-de-textura-granito-branco.jpg using Guid(dd98e606b492741a687b5091c637902d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07580200391ae952b7ea8cde32a7a29') in 0.541123 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Desing/bbs3pm-blender01.jpg
+  artifactKey: Guid(68708604f5df74179a17064a008b62e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/bbs3pm-blender01.jpg using Guid(68708604f5df74179a17064a008b62e1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c63fe1d06f888156c9018ab59a02c3f4') in 0.005270 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000157 seconds.
+  path: Assets/Desing/sala TEXTURA2.fbx
+  artifactKey: Guid(9829ed4e7c18043e1968a7b76d906d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/sala TEXTURA2.fbx using Guid(9829ed4e7c18043e1968a7b76d906d92) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '543f8569251ef006f2834f4026883267') in 2.919825 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000283 seconds.
+  path: Assets/Desing/macOSBigSur-800x492.jpg
+  artifactKey: Guid(cef032f53e2164a53a6da4b304828749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/macOSBigSur-800x492.jpg using Guid(cef032f53e2164a53a6da4b304828749) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '006c7700b56546a1fbab64deb9c12c63') in 0.008307 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 188.912148 seconds.
+  path: Assets/Desing/PP7921-Pau-Marfim - -TX.jpg
+  artifactKey: Guid(e68e3f03490974983bca6579abf5bc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/PP7921-Pau-Marfim - -TX.jpg using Guid(e68e3f03490974983bca6579abf5bc85) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '25dda7d94e7fba6a52890e96623dad7b') in 0.007849 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 72.106567 seconds.
+  path: Assets/Desing/sala TEXTURA3.fbx
+  artifactKey: Guid(8fa537432e6384b0ab40e360706829bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/sala TEXTURA3.fbx using Guid(8fa537432e6384b0ab40e360706829bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4c2259a168da28430cf4925ad889cff') in 2.927263 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 13.387908 seconds.
+  path: Assets/Desing/sala TEXTURA2.fbx
+  artifactKey: Guid(8fa537432e6384b0ab40e360706829bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Desing/sala TEXTURA2.fbx using Guid(8fa537432e6384b0ab40e360706829bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a7e7bbe3c31dbb5296d945dd928f415e') in 2.991575 seconds 
