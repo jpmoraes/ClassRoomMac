@@ -1,0 +1,11 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes: []
+  m_configObjects:
+    com.unity.input.settings: {fileID: 11400000, guid: ad9ac1b38b2b8e54d8fe9061485ce4a7, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a13900991b0af7b45ab39c45531bd021, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: e33405d218c2541d29d77454c401d025, type: 2}
